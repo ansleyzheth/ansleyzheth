@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1200&color=7DD3FC&center=true&vCenter=true&width=700&lines=Ansley+Donizeti+Gon%C3%A7alves;SRE+%7C+DevOps+%7C+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=900&lines=Ansley+Donizeti+Gon%C3%A7alves;SRE+%7C+DevOps+%7C+Cloud+Engineer;Infrastructure+with+reliability+and+clarity" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Infraestrutura que funciona em produção, não só em laboratório.</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,50:0f172a,100:0ea5e9&height=180&section=header&text=Ansley%20Donizeti%20Gon%C3%A7alves&fontSize=30&animation=twinkling&fontColor=E2E8F0" alt="Banner premium" />
 </p>
 
 <p align="center">
@@ -16,12 +16,15 @@
   <a href="mailto:ansley_dg@hotmail.com">
     <img src="https://img.shields.io/badge/Email-ansley_dg@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://wa.me/5545998353552" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+55%2045%2099835--3552-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Brasil-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Disponibilidade-Open+to+work-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-SRE%20%7C%20Cloud%20%7C%20Automation-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Disponibilidade-Open%20to%20work-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-SRE%20%7C%20Cloud%20%7C%20Automation-7C3AED?style=flat-square" />
 </p>
 
 ## Sobre mim
@@ -56,6 +59,7 @@ Meu trabalho está no ponto de encontro entre infraestrutura e entrega. Eu gosto
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ## Experiência
@@ -91,16 +95,15 @@ Meu trabalho está no ponto de encontro entre infraestrutura e entrega. Eu gosto
   <img src="https://streak-stats.demolab.com/?user=ansleyzheth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansleyzheth&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+## Projetos em destaque
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansleyzheth&theme=tokyonight&no-frame=true&margin-w=6&row=2&column=6" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansleyzheth/ansleyzheth/output/github-contribution-grid-snake.svg" alt="Snake Contribution" />
+<p align="left">
+  <a href="https://ansleyzheth.github.io/Curriculo-Ansley/" target="_blank">
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-Portfolio-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ansley-donizeti-goncalves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ## Redes sociais
