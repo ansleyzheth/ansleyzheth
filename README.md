@@ -87,12 +87,18 @@ Meu trabalho está no ponto de encontro entre infraestrutura e entrega. Eu gosto
 ## GitHub status
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansleyzheth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansleyzheth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Stats-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Top%20Languages-DevOps%20%7C%20Cloud%20%7C%20SRE-0EA5E9?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ansleyzheth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Contribui%C3%A7%C3%B5es-160+-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-5%20dias-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-SRE%20%7C%20Cloud%20%7C%20Automation-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infraestrutura-Production%20Ready-10B981?style=for-the-badge" />
 </p>
 
 ## Projetos em destaque
